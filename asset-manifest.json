@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/frontend-notes-app/static/css/main.e58b5d07.css",
+    "main.js": "/frontend-notes-app/static/js/main.c1d70d96.js",
+    "static/js/787.a7df377a.chunk.js": "/frontend-notes-app/static/js/787.a7df377a.chunk.js",
+    "index.html": "/frontend-notes-app/index.html",
+    "main.e58b5d07.css.map": "/frontend-notes-app/static/css/main.e58b5d07.css.map",
+    "main.c1d70d96.js.map": "/frontend-notes-app/static/js/main.c1d70d96.js.map",
+    "787.a7df377a.chunk.js.map": "/frontend-notes-app/static/js/787.a7df377a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e58b5d07.css",
+    "static/js/main.c1d70d96.js"
+  ]
+}
